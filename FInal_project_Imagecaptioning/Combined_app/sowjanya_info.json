@@ -1,0 +1,40 @@
+{
+    "about": {
+      "name": "Sowjanya",
+      "title": "AI and Data Science Professional",
+      "education": {
+        "degree": "Postgraduate Degree in Data Science",
+        "university": "University of Chandigarh",
+        "year": 2024
+      },
+      "work_experience": [
+        {
+          "position": "Data Science Intern",
+          "employer": "Final year student"
+        }
+      ],
+      "career_goal": "To leverage expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.",
+      "skills": [
+        "AI",
+        "Data Science",
+        "Web technologies",
+        "Python",
+        "React JS",
+        "Spring Boot"
+      ],
+      "certifications": ["Certified Data Scientist"],
+      "achievements": ["Letter of Recommendation for the Internship"],
+      "contact": {
+        "linkedin": "https://www.linkedin.com/in/sowjanya-bojja/",
+        "phone": "8073226086",
+        "location": "India"
+      },
+      "strengths": "Passion for technology, innovative problem-solving, client-centric solutions",
+      "weaknesses": "Unwavering pursuit of excellence may lead to in-depth analysis, but ensures delivery of high-quality services",
+      "interests": "Technology, GenAI, walking dogs, swimming, coffee moments with friends and family",
+      "portfolio": "Explore Sowjanya's portfolio showcasing expertise and tailored solutions. Constructed using generative AI and Python.",
+      "availability": "Actively seeking new opportunities and ready to start immediately",
+      "references": "Available upon request"
+    }
+  }
+  
